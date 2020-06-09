@@ -299,6 +299,11 @@ html {
 html {
    scroll-behavior: smooth;
 }
+#container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #Ourteam {
    display: inline-block;
